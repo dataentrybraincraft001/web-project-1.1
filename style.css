@@ -1,0 +1,140 @@
+*{
+    margin: 0;
+    padding: 0;
+    
+    
+}
+body{
+    font-family: 'Poppins', sans-serif;
+    
+}
+marquee{
+    color:red;
+    font-family: sans-serif;
+    padding-top:5px;
+    
+}
+h1{
+    font-size: 70px;
+}
+h2{
+    font-size: 40px;
+}
+.pink{
+    color: rgb(235, 62, 91);
+     
+}
+p{
+    color: dimgray;
+    margin-bottom: 5%;
+    
+}
+a{
+    background-color: rgb(235, 62, 91);
+    padding: 10px 50px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: #fff; 
+}
+a:hover{
+    background-color: rgb(255, 166, 0);
+    color: black;
+    transition: 0.5s;
+    
+}
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+    padding-top: 1%;
+    
+    
+}
+.half-width-text{
+    margin-top: 20%;
+    padding-top: 5%;
+    padding-left: 20%;
+}
+.half-width img{
+    width: 70%;
+    
+
+}
+section{
+    height: 500px;
+    padding-bottom: 225px;
+    
+}
+.top-banner{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+
+}
+.Biography{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+    background-position: center; 
+}
+.half-width-text-1{
+    margin-top: 20%;
+    padding-top: 5%;
+    padding-right: 20%;
+
+}
+.work{
+    background-image: url(./images/latest-work-bg.png);
+    background-position:center;
+    background-repeat: no-repeat;
+    padding-top: 150px;
+}
+#h2-another{
+    
+    padding-bottom: 50px;
+    text-align: center;
+}
+.my{
+    margin-left: 150px;
+    padding-top: 50px;
+}
+.One img{
+    width: 30%;
+    height:20%;
+    float: left;
+    
+}
+.two img{
+    width: 30%;
+    height:20%;
+    float: left;
+    padding-left:25px;
+}
+.three img{
+    width: 30%;
+    height:20%; 
+    padding-left: 25px;
+}
+.footer-text1{
+    text-align: center;
+    
+
+}
+.footer-text{
+    background-image: url("images/footer-bg.png");
+    background-repeat: no-repeat;
+    background-position: center;
+}
+.leave{
+    background-color: rgb(235, 62, 91);
+    height: 50%;
+    width: 50%;
+    padding: 40px;
+    display: inline-block;
+    color: #fff;
+    border-radius: 10px; 
+}
+.font{
+    
+    font-size: 30px;
+}
