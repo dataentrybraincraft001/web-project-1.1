@@ -1,8 +1,14 @@
 *{
     margin: 0;
     padding: 0;
+
     
     
+}
+.display{
+    max-width: 1350px;
+    margin: 0 auto;
+
 }
 body{
     font-family: 'Poppins', sans-serif;
