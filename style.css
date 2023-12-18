@@ -8,6 +8,10 @@ body{
     font-family: 'Poppins', sans-serif;
     
 }
+.display{
+    max-width: 1350px;
+    margin: 0 auto;
+}
 marquee{
     color:red;
     font-family: sans-serif;
